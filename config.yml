@@ -1,0 +1,5 @@
+dev:
+  database_url: postgres://postgres:@localhost:5432/database_dev
+  host: localhost
+test:
+  database_url: postgres://postgres:@localhost:5432/database_test

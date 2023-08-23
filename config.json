@@ -1,0 +1,15 @@
+{
+    "database": {
+        "host": "localhost",
+        "password": "12345"
+    },
+    "host": "localhost",
+    "port": "8080",
+    "kafka_settings": {
+        "bootstrap_servers": {
+            "host": "localhost",
+            "port": "9092"
+        },
+        "topics": "tp.vas.analytics-event"
+    }
+}
